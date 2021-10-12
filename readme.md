@@ -1,5 +1,5 @@
-<h1 align="center"> DT-MONEY</h1>
-<p align="center">Controle suas receitas e despesas</p>
+<h1 align="center"> ROCKETSHOES</h1>
+<p align="center">Carrinho de compras</p>
 
 
 ## 💻 O Projeto
